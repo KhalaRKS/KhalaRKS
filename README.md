@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KhalaRKS or you can call me Alba haha
 - 👀 I’m interested on any thing that technology involves
-- 🌱 I’m currently learning full stack web developer
+- 🌱 I’m currently learning JavaScript and responsive designs on web. At the same time im studying 
+      systems engineering
 - 📫 How to reach me? You can contact me on linkedin.com/in/albanokainer/
 
 <!---
