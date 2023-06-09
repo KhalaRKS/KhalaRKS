@@ -15,13 +15,13 @@ I am a mobile fullstack developer with years of professional experience. I'm pas
 Here are a few noteworthy projects I've worked on:
 
 1. Neumotool
-   - Description: A mobile app that provides valuable information about neumologic diseases, Neumotool offers advanced algorithmic treatment recommendations specifically tailored for doctors and healthcare professionals. These algorithmic features assist medical practitioners in making informed decisions about the treatment of neumologic diseases.
+   - A mobile app that provides valuable information about neumologic diseases, Neumotool offers advanced algorithmic treatment recommendations specifically tailored for doctors and healthcare professionals. These algorithmic features assist medical practitioners in making informed decisions about the treatment of neumologic diseases.
 
 2. Plasma Waters
-   - Description: Plasma Waters is an innovative application that simulates the management of devices designed for water purification and toxicity measurement. It caters to various regions where water extraction is necessary, providing a comprehensive solution to ensure safe and clean drinking water. The application enables users to monitor and control multiple devices, track water consumption, and acquire different service plans to enhance the quality of purified water.
+   - Innovative application that simulates the management of devices designed for water purification and toxicity measurement. It caters to various regions where water extraction is necessary, providing a comprehensive solution to ensure safe and clean drinking water. The application enables users to monitor and control multiple devices, track water consumption, and acquire different service plans to enhance the quality of purified water.
 
 3. SafeDesk
-   - Description: SafeDesk is a comprehensive enterprise application designed to streamline employee management and facilitate efficient access control within office premises. This advanced system empowers businesses to effectively manage their workforce, automate the reservation of work shifts, and oversee entry and exit processes for the building's parking garage. SafeDesk enhances security, improves operational efficiency, and provides a seamless experience for both employees and administrators.
+   - Comprehensive enterprise application designed to streamline employee management and facilitate efficient access control within office premises. This advanced system empowers businesses to effectively manage their workforce, automate the reservation of work shifts, and oversee entry and exit processes for the building's parking garage. SafeDesk enhances security, improves operational efficiency, and provides a seamless experience for both employees and administrators.
 
 ## Contact Me
 Feel free to reach out to me through the following channels:
