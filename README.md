@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @KhalaRKS or you can call me Alba hahaha 😁.
-- 👀 I’m interested on any thing that technology involves.
-- 🌱 I’m currently learning JavaScript and responsive designs on web. At the same time im studying 
-      systems engineering on the University.
-- 📫 How to reach me? You can contact me on linkedin.com/in/albanokainer/
+# I'm Alba and welcome to My GitHub Profile!
 
-<!---
-KhalaRKS/KhalaRKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a mobile fullstack developer with years of professional experience. I'm passionate about creating high-quality and user-friendly applications for mobile devices. My expertise lies in both frontend and backend development, allowing me to build end-to-end solutions.
+
+## Skills
+- Mobile Application Development (iOS and Android)
+- Cross-Platform Development (React Native, Flutter)
+- Frontend Development (HTML, CSS, JavaScript)
+- Backend Development (Node.js, Express)
+- Database Management (MySQL, MongoDB)
+- Version Control (Git)
+
+## Projects
+Here are a few noteworthy projects I've worked on:
+
+1. Neumotool
+   - Description: A mobile app that provides valuable information about neumologic diseases, Neumotool offers advanced algorithmic treatment recommendations specifically tailored for doctors and healthcare professionals. These algorithmic features assist medical practitioners in making informed decisions about the treatment of neumologic diseases.
+
+2. Plasma Waters
+   - Description: Plasma Waters is an innovative application that simulates the management of devices designed for water purification and toxicity measurement. It caters to various regions where water extraction is necessary, providing a comprehensive solution to ensure safe and clean drinking water. The application enables users to monitor and control multiple devices, track water consumption, and acquire different service plans to enhance the quality of purified water.
+
+3. SafeDesk
+   - Description: SafeDesk is a comprehensive enterprise application designed to streamline employee management and facilitate efficient access control within office premises. This advanced system empowers businesses to effectively manage their workforce, automate the reservation of work shifts, and oversee entry and exit processes for the building's parking garage. SafeDesk enhances security, improves operational efficiency, and provides a seamless experience for both employees and administrators.
+
+## Contact Me
+Feel free to reach out to me through the following channels:
+
+- Email: albanokainer@hotmail.com
+- LinkedIn: [Albano Kainer](https://www.linkedin.com/in/albanokainer/)
+
+I'm always open to collaboration and exciting new opportunities!
