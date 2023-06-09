@@ -1,7 +1,7 @@
 # I'm Alba and welcome to My GitHub Profile!
 
 ## About Me
-I am a mobile fullstack developer with years of professional experience. I'm passionate about creating high-quality and user-friendly applications for mobile devices. My expertise lies in both frontend and backend development, allowing me to build end-to-end solutions.
+I am a mobile fullstack developer with years of professional experience. I'm passionate about creating high-quality and user-friendly applications for mobile devices. My expertise settled about frontend and backend development, allowing me to build end-to-end solutions.
 
 ## Skills
 - Mobile Application Development (iOS and Android)
