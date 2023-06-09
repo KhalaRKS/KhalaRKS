@@ -6,7 +6,7 @@ I am a mobile fullstack developer with years of professional experience. I'm pas
 ## Skills
 - Mobile Application Development (iOS and Android)
 - Cross-Platform Development (React Native, Flutter)
-- Frontend Development (HTML, CSS, JavaScript)
+- Frontend Development (React, Next)
 - Backend Development (Node.js, Express)
 - Database Management (MySQL, MongoDB)
 - Version Control (Git)
