@@ -4,12 +4,7 @@
 I am a mobile fullstack developer with years of professional experience. I'm passionate about creating high-quality and user-friendly applications for mobile devices. My expertise is settled about frontend and backend development, allowing me to build end-to-end solutions.
 
 ## Skills
-- Mobile Application Development (iOS and Android)
-- Cross-Platform Development (React Native, Flutter)
-- Frontend Development (React, Next)
-- Backend Development (Node.js, Express)
-- Database Management (MySQL, MongoDB)
-- Version Control (Git)
+As a Frontend Engineer with over 4 years of experience, I specialize in developing high-quality mobile and web applications. My expertise spans mobile application development, cross-platform solutions, and comprehensive frontend and backend development. I excel in database management and version control, ensuring robust and efficient software solutions.
 
 ## Projects
 Here are a few noteworthy projects I've worked on:
