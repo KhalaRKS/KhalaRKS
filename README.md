@@ -1,7 +1,11 @@
-# I'm Alba and welcome to My GitHub Profile!
+# Alba Kainer - Frontend Engineer 👨‍💻
 
 ## About Me
-I am a mobile fullstack developer with years of professional experience. I'm passionate about creating high-quality and user-friendly applications for mobile devices. My expertise is settled about frontend and backend development, allowing me to build end-to-end solutions.
+I'm passionate about technology and enjoy making gadgets with Arduino to make life easier... or so I thought? Always striving to do my best in development, even if it sometimes makes you pull your hair out, I enjoy teaching others who are starting in this amazing field. Currently, I'm working at Accenture for Banco Galicia, the largest bank in Argentina, where I contribute to enhancing the user experience by pushing the ATMs to the next level.
+
+Thanks for reading,
+and remember... KISS
+Keep It Simple, Stupid!
 
 ## Skills
 As a Frontend Engineer with over 4 years of experience, I specialize in developing high-quality mobile and web applications. My expertise spans mobile application development, cross-platform solutions, and comprehensive frontend and backend development. I excel in database management and version control, ensuring robust and efficient software solutions.
